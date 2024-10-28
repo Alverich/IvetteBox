@@ -557,7 +557,7 @@ http://181.78.86.226:8086/play/a05a
 
 
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="INF | DISNEY CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/838/497/png-transparent-disney-channel-the-walt-disney-company-television-channel-logo-others-television-blue-text.png" group-title="⭐INFANTILES HD⭐",INF | Disney HD
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="INF | DISNEY CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/838/497/png-transparent-disney-channel-the-walt-disney-company-television-channel-logo-others-television-blue-text.png" group-title="⭐⭐INFANTILES HD⭐⭐",INF | Disney HD
 http://181.78.86.226:8086/play/a00n
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="INF | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="⭐⭐INFANTILES HD⭐⭐",INF | Cartoon Network HD
@@ -566,10 +566,10 @@ http://181.78.86.226:8086/play/a062
 #EXTINF:-1 tvg-id="Nick" tvg-name="INF | Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nick_HD.png/640px-Nick_HD.png" group-title="⭐⭐INFANTILES HD⭐⭐",INF | Nick HD
 http://181.78.86.226:8086/play/a04r
 
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="INF | DISCOVERY KIDS" tvg-logo="https://banner2.cleanpng.com/20180708/vjl/kisspng-discovery-kids-television-channel-discovery-channe-zak-storm-5b42a3d63e27b7.2224971315310939742546.jpg" group-title="⭐INFANTILES HD⭐",INF | Discovery Kids HD
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="INF | DISCOVERY KIDS" tvg-logo="https://banner2.cleanpng.com/20180708/vjl/kisspng-discovery-kids-television-channel-discovery-channe-zak-storm-5b42a3d63e27b7.2224971315310939742546.jpg" group-title="⭐⭐INFANTILES HD⭐⭐",INF | Discovery Kids HD
 http://181.78.86.226:8086/play/a05d
 
-#EXTINF:-1 tvg-id="Lolly Kids" tvg-name="INF | Lolly Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest/scale-to-width-down/200?cb=20220608234257&path-prefix=es" group-title="⭐INFANTILES HD⭐",INF | Lolly Kids HD
+#EXTINF:-1 tvg-id="Lolly Kids" tvg-name="INF | Lolly Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest/scale-to-width-down/200?cb=20220608234257&path-prefix=es" group-title="⭐⭐INFANTILES HD⭐⭐",INF | Lolly Kids HD
 http://181.78.86.226:8086/play/a06r
 
 
@@ -799,28 +799,6 @@ http://cincotv.org:25461/demo1/25demo/75177
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 6
 http://cincotv.org:25461/demo1/25demo/75178
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (DISNEY LIVE)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || 24/7 CINE",24/7 CINEMA (DISNEY LIVE)
-http://cincotv.org:25461/demo1/25demo/139693
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (ACCION CLASSICS)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || 24/7 CINE",24/7 CINEMA (ACCION CLASSICS)
-http://cincotv.org:25461/demo1/25demo/139694
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (NAVIDAD)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || 24/7 CINE",24/7 CINEMA (NAVIDAD)
-http://cincotv.org:25461/demo1/25demo/139695
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (LEGO)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || 24/7 CINE",24/7 CINEMA (LEGO)
-http://cincotv.org:25461/demo1/25demo/139696
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (HORROR)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || 24/7 CINE",24/7 CINEMA (HORROR)
-http://cincotv.org:25461/demo1/25demo/139697
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (ARTES MARCIALES)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || 24/7 CINE",24/7 CINEMA (ARTES MARCIALES)
-http://cincotv.org:25461/demo1/25demo/139698
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA FAMILIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA FAMILIA
-http://cincotv.org:25461/demo1/25demo/139699
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA COMEDIA
-http://cincotv.org:25461/demo1/25demo/139700
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA TERROR
-http://cincotv.org:25461/demo1/25demo/139701
-#EXTINF:-1 tvg-id="" tvg-name="CLASICOS DE DISNEY" tvg-logo="https://i.ibb.co/W5SCmVc/images-1.png" group-title="TV || 24/7 CINE",CLASICOS DE DISNEY
-http://cincotv.org:25461/demo1/25demo/139702
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ZOMBIE" tvg-logo="https://i.postimg.cc/YC4w600j/zombie.png" group-title="TV || 24/7 CINE",24/7 ZOMBIE
 http://cincotv.org:25461/demo1/25demo/181926
@@ -860,6 +838,37 @@ http://cincotv.org:25461/demo1/25demo/185032
 http://cincotv.org:25461/demo1/25demo/185034
 #EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ " tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" group-title="TV || CINE PREMIUM",CINE STAR+ 
 http://cincotv.org:25461/demo1/25demo/185035
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (DISNEY LIVE)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (DISNEY LIVE)
+http://cincotv.org:25461/demo1/25demo/139693
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (ACCION CLASSICS)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (ACCION CLASSICS)
+http://cincotv.org:25461/demo1/25demo/139694
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (NAVIDAD)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (NAVIDAD)
+http://cincotv.org:25461/demo1/25demo/139695
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (LEGO)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (LEGO)
+http://cincotv.org:25461/demo1/25demo/139696
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (HORROR)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (HORROR)
+http://cincotv.org:25461/demo1/25demo/139697
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA (ARTES MARCIALES)" tvg-logo="https://i.ibb.co/8Nwxh6T/cinema.png" group-title="TV || CINE PREMIUM",24/7 CINEMA (ARTES MARCIALES)
+http://cincotv.org:25461/demo1/25demo/139698
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA FAMILIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || CINE PREMIUM",CINEMA FAMILIA
+http://cincotv.org:25461/demo1/25demo/139699
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || CINE PREMIUM",CINEMA COMEDIA
+http://cincotv.org:25461/demo1/25demo/139700
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || CINE PREMIUM",CINEMA TERROR
+http://cincotv.org:25461/demo1/25demo/139701
+
+#EXTINF:-1 tvg-id="" tvg-name="CLASICOS DE DISNEY" tvg-logo="https://i.ibb.co/W5SCmVc/images-1.png" group-title="TV || CINE PREMIUM",CLASICOS DE DISNEY
+http://cincotv.org:25461/demo1/25demo/139702
+
 
 
 
